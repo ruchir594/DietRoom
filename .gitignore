@@ -1,1 +1,7 @@
 *.pyc
+node_modules
+data
+sc.rtf
+oauth.js
+nlp
+bin

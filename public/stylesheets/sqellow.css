@@ -1,0 +1,68 @@
+	html, body
+	{
+		height: 100%;
+	}
+
+	body
+	{
+		margin: 0px;
+		padding: 0px;
+		background: #FFFFFF;
+		line-height: 1.75em;
+		font-family: 'Source Sans Pro', sans-serif;
+		font-size: 12pt;
+		font-weight: 300;
+		color: #000000;
+		font: 14px "Lucida Grande", Helvetica, Arial, sans-serif;
+	}
+
+
+	h1, h2, h3
+	{
+		margin: 0;
+		padding: 0;
+	}
+
+	p, ol, ul
+	{
+		margin-top: 0;
+	}
+
+	p
+	{
+	}
+
+
+	ol, ul
+	{
+		padding: 0;
+		list-style: none;
+	}
+
+	p
+	{
+		line-height: 180%;
+	}
+
+	strong
+	{
+	}
+
+	a {
+	  color: #00B7FF;
+	}
+
+	a:hover
+	{
+		text-decoration: none;
+	}
+
+	.container
+	{
+		overflow: hidden;
+		margin: 0em auto;
+		padding-right: 15px;
+	    padding-left: 15px;
+	    margin-right: auto;
+	    margin-left: auto;
+	}
